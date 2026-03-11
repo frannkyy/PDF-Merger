@@ -4,7 +4,7 @@
 
 A clean, professional Windows application that combines multiple PDF files into one document. Simple, fast, and free.
 
-![PDF Merger Screenshot](https://github.com/frannkyy/PDF-Merger/blob/main/PDF%20Merger%20Screenshot.png)
+![PDF Merger Screenshot]()
 
 ---
 
