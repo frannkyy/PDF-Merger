@@ -1,57 +1,119 @@
-# PDF Merger - Created by Franklin Ogot
+# 📄 PDF Merger - Created by Franklin Ogot
 
 ![PDF Merger Icon](pdf_merger.ico)
 
-A professional, easy-to-use Windows application that combines multiple PDF files into one document. Built with Python and packaged as a standalone executable.
+A clean, professional Windows application that combines multiple PDF files into one document. Simple, fast, and free.
 
-![PDF Merger Screenshot](https://github.com/frannkyy/PDF-Merger/blob/main/PDF%20Merger%20Screenshot.png) 
+![PDF Merger Screenshot](https://github.com/frannkyy/PDF-Merger/blob/main/PDF%20Merger%20Screenshot.png)
+
+---
 
 ## ✨ Features
 
-- **Merge Multiple PDFs** - Combine any number of PDF files into one document
-- **Drag & Drop Support** - Simply drag PDF files from File Explorer into the app
-- **Intuitive Interface** - Easy-to-use buttons for adding, removing, and reordering files
-- **Automatic Date Naming** - Default filename uses today's date (MM-DD-YYYY.pdf)
-- **Reorder Files** - Move files up or down to arrange them in your desired order
-- **Professional Installation** - Installs permanently with Start Menu shortcuts
-- **Custom Branding** - Created and signed by Franklin Ogot
+| | |
+|---|---|
+| **🖱️ Drag & Drop** | Drag PDF files directly from File Explorer into the app |
+| **📄 PDF Icons** | Visual file icons next to each filename |
+| **↕️ Drag to Reorder** | Click and hold files to rearrange them |
+| **📅 Auto Date Naming** | Default filename uses today's date (MM-DD-YYYY.pdf) |
+| **📂 Choose Save Location** | Select any folder (defaults to Documents) |
+| **🎯 One-Window Design** | All controls visible - no scrolling needed |
+| **🚀 Fast Performance** | Merges even large PDFs in seconds |
+| **🪟 Professional Installer** | Installs with Start Menu shortcuts |
 
-## 📥 Download & Installation
+---
 
-### Option 1: Installer (Recommended)
-Download the latest installer from the [Releases](https://github.com/frannkyy/PDF-Merger/releases/tag/v1.0.0) page:
-- [`PDF_Merger_Setup.exe`](https://github.com/frannkyy/PDF-Merger/releases/download/v1.0.0/PDF_Merger_Setup.exe) (30-35 MB)
+## 📥 Download
 
-### Option 2: Portable Version
-If you prefer a portable version without installation:
-- [`PDF_Merger_Portable.exe`](https://github.com/frannkyy/PDF-Merger/releases/download/v1.0.0/PDF.Merger.Portable.exe)
+### **Option 1: Installer (Recommended)**
+[⬇️ Download PDF_Merger_Setup.exe](https://github.com/frannkyy/PDF-Merger/releases/download/v1.0.0/PDF_Merger_Setup.exe) *(50 MB)*
 
-## 🚀 How to Use
+- Installs permanently to Program Files
+- Adds Start Menu shortcut
+- Optional desktop shortcut
+- Uninstall through Windows Settings
 
-1. **Launch the application** from Start Menu or desktop shortcut
-2. **Add PDF files** using one of these methods:
-   - Click "Add Files" button and select files
-   - Drag and drop PDF files directly into the window
-3. **Arrange files** in your desired order using:
-   - "Move Up" and "Move Down" buttons
-   - Select a file and remove it if needed
-4. **Set output filename** (default is today's date, e.g., `03-12-2026.pdf`)
-5. **Click "Merge PDFs"** to combine all files
-6. **Find your merged PDF** in the same folder as the application
+### **Option 2: Portable Version**
+[⬇️ Download PDF_Merger_Portable.exe](https://github.com/frannkyy/PDF-Merger/releases/download/v1.0.0/PDF_Merger_Portable.exe) *(50 MB)*
+
+- No installation needed
+- Run directly from USB drive
+- Perfect for temporary use
+
+---
+
+## 🚀 Quick Start Guide
+
+### **Step 1: Launch**
+Open PDF Merger from Start Menu or desktop
+
+### **Step 2: Add Files**
+- Click **"Add Files"** button, OR
+- **Drag & drop** PDFs directly into the window
+
+### **Step 3: Arrange**
+- **Click and drag** files up/down to reorder
+- Or use **Move Up/Move Down** buttons
+- Select a file and click **"Remove"** to delete
+
+### **Step 4: Choose Location**
+- Default save folder: **Documents**
+- Click **"Browse"** to change folder
+
+### **Step 5: Merge!**
+- Click **"Merge PDFs"**
+- Your merged file appears in the selected folder
+
+---
+
+## 🖥️ Screenshot
+
+![PDF Merger Screenshot](https://github.com/frannkyy/PDF-Merger/blob/main/PDF%20Merger%20Screenshot.png)
+
+*Clean, one-window interface - everything visible at once*
+
+---
 
 ## 📋 System Requirements
 
-- **Operating System:** Windows 10 or Windows 11
-- **Disk Space:** 50 MB free space
-- **Memory:** 256 MB RAM (minimum)
-- **No additional software required** - Everything is included!
+| Requirement | Details |
+|-------------|---------|
+| **OS** | Windows 10 or Windows 11 (64-bit) |
+| **Storage** | 50 MB free space |
+| **Memory** | 256 MB RAM (minimum) |
+| **Additional** | Nothing needed - everything included |
+
+---
 
 ## 🛠️ Technical Details
 
-- **Developer:** Franklin Ogot
-- **Version:** 1.0.0
-- **Release Date:** March 2026
-- **Built with:** Python, PyInstaller, Inno Setup
-- **Libraries used:** PyPDF2, tkinterdnd2
+| | |
+|---|---|
+| **Developer** | Franklin Ogot |
+| **Version** | 1.0.0 |
+| **Release Date** | March 2026 |
+| **Built With** | Python, PyMuPDF, PyInstaller, Inno Setup |
+| **File Size** | ~50 MB (standalone EXE) |
 
-## 📝 License & Copyright
+---
+
+## 📝 License
+
+PDF Merger - Free PDF Combining Tool
+Copyright © 2026 Franklin Ogot
+
+This software is provided "as is" without warranty of any kind.
+You may use, modify, and distribute this software freely.
+
+Created by Franklin Ogot
+
+---
+
+## 🤝 Connect
+
+- **Report Issues:** [GitHub Issues](https://github.com/frannkyy/PDF-Merger/issues)
+- **Contact:** franklinogot11@gmail.com
+
+---
+
+**⭐ If you find this useful, please star the repository!** ⭐
