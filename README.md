@@ -4,7 +4,7 @@
 
 A professional, easy-to-use Windows application that combines multiple PDF files into one document. Built with Python and packaged as a standalone executable.
 
-![PDF Merger Screenshot](screenshot.png) *(Add a screenshot of your app here)*
+![PDF Merger Screenshot](https://github.com/frannkyy/PDF-Merger/blob/main/PDF%20Merger%20Screenshot.png) *(Add a screenshot of your app here)*
 
 ## ✨ Features
 
@@ -19,12 +19,12 @@ A professional, easy-to-use Windows application that combines multiple PDF files
 ## 📥 Download & Installation
 
 ### Option 1: Installer (Recommended)
-Download the latest installer from the [Releases](https://github.com/yourusername/pdf-merger/releases) page:
-- [`PDF_Merger_Setup.exe`](https://github.com/yourusername/pdf-merger/releases/latest) (30-35 MB)
+Download the latest installer from the [Releases](https://github.com/frannkyy/PDF-Merger/releases/tag/v1.0.0) page:
+- [`PDF_Merger_Setup.exe`](https://github.com/frannkyy/PDF-Merger/releases/download/v1.0.0/PDF_Merger_Setup.exe) (30-35 MB)
 
 ### Option 2: Portable Version
 If you prefer a portable version without installation:
-- [`PDF_Merger_Portable.exe`](https://github.com/yourusername/pdf-merger/releases/latest)
+- [`PDF_Merger_Portable.exe`](https://github.com/frannkyy/PDF-Merger/releases/download/v1.0.0/PDF.Merger.Portable.exe)
 
 ## 🚀 How to Use
 
