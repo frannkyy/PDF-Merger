@@ -68,7 +68,7 @@ Open PDF Merger from Start Menu or desktop
 
 ## 🖥️ Screenshot
 
-![PDF Merger Screenshot](https://github.com/frannkyy/PDF-Merger/blob/main/PDF%20Merger%20Screenshot.png)
+![PDF Merger Screenshot](https://github.com/frannkyy/PDF-Merger/blob/main/PDF_Merger.png)
 
 *Clean, one-window interface - everything visible at once*
 
