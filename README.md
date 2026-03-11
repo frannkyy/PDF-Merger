@@ -4,7 +4,7 @@
 
 A professional, easy-to-use Windows application that combines multiple PDF files into one document. Built with Python and packaged as a standalone executable.
 
-![PDF Merger Screenshot](https://github.com/frannkyy/PDF-Merger/blob/main/PDF%20Merger%20Screenshot.png) *(Add a screenshot of your app here)*
+![PDF Merger Screenshot](https://github.com/frannkyy/PDF-Merger/blob/main/PDF%20Merger%20Screenshot.png) 
 
 ## ✨ Features
 
